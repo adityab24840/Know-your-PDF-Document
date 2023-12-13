@@ -1,6 +1,6 @@
 # Chat with your PDFs
 
-This is a Streamlit application that allows users to chat with an AI model about the content of multiple uploaded PDF documents. The application leverages various NLP and document processing libraries to enable a seamless conversational experience.
+This is a Streamlit application (https://know-your-pdf-document-adi.streamlit.app/) that allows users to chat with an AI model about the content of multiple uploaded PDF documents. The application leverages various NLP and document processing libraries to enable a seamless conversational experience.
 
 <b>Please note that the application might run slower than expected due to the usage of HuggingFace, a free alternative to OpenAI API, which may have limitations in terms of processing speed.</b>
 
